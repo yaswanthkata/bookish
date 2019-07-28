@@ -1,0 +1,34 @@
+.container {
+     max-width: 720px;
+     margin: 20px auto;
+     }
+    
+     h1 {
+     background: limegreen;
+     color: white;
+     padding: 6px 8px;
+     }
+
+     .book {
+         border: 1px solid lightgreen;
+         margin-bottom: 12px;
+         padding: 6px 8px;
+         box-shadow: 0 0 2px #ccc;
+         }
+        
+         h2 {
+         margin: 10px 0;
+         color: #333;
+         }
+    
+         .view-detail {
+         color: limegreen;
+         text-decoration: none;
+         }
+
+         .search {
+             box-sizing: border-box;
+             width: 100%;
+             padding: 2px 4px;
+             height: 32px;
+             }
